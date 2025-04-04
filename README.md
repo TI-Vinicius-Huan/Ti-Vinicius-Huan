@@ -9,7 +9,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TI-Vinicius-Huan)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Snake animation](https://github.com/TI-Vinicius-Huan/TI-Vinicius-Huan/blob/output/github-contribution-grid-snake.sgv)
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TI-Vinicius-Huan/TI-Vinicius-Huan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TI-Vinicius-Huan/TI-Vinicius-Huan/output/github-contribution-grid-snake-dark.svg">
