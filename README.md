@@ -2,7 +2,9 @@
 
 
 - 🔭 A procura de oportunidades de trabalho suporte tecnico n1/Dev Front-end Jr.
-- 🌱 Estudadno Jva/phython/html/css
+- 💻 Cursando: Analise e Desenvolvimento de Sistema
+- 🖥 3 anos de experiência em T.I ( suporte ao usuário,redes,Manutenção preventiva e corretiva de equipamentos de hardware;
+- 🌱 Estudadno Java/phython/html/css
 - 📫 Contate-me no email: t.i.viniciushuan@gmail.com
 - 😄 Pronouns:ele/dele
 
