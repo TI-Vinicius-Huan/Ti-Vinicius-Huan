@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-
-- 🔭 A procura de oportunidades de trabalho suporte tecnico n1/Dev Front-end Jr.
+- 💻 Cargo Atual:
+TECNICO SUPORTE I- STEFANINI CONSULTORIA
+- 🔭 A procura de oportunidades de trabalho Dev Front-end Jr.
 - 💻 Cursando: Analise e Desenvolvimento de Sistema
-- 🖥 3 anos de experiência em T.I ( suporte ao usuário,redes,Manutenção preventiva e corretiva de equipamentos de hardware;
+- 🖥 4 anos de experiência em T.I ( suporte ao usuário,redes,Manutenção preventiva e corretiva de equipamentos de hardware;
 - 🌱 Estudadno Java/phython/html/css
 - 📫 Contate-me no email: t.i.viniciushuan@gmail.com
 - 😄 Pronouns:ele/dele
