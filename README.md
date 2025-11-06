@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💻 Cargo Atual:
-TECNICO SUPORTE I- STEFANINI CONSULTORIA
+A procura de oportunidades
 - 🔭 A procura de oportunidades de trabalho Dev Front-end Jr.
 - 💻 Cursando: Analise e Desenvolvimento de Sistema
 - 🖥 4 anos de experiência em T.I ( suporte ao usuário,redes,Manutenção preventiva e corretiva de equipamentos de hardware;
